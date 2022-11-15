@@ -189,4 +189,3 @@ Vue.use(VueKonva, { prefix: 'Konva'});
 ## Change log
 
 The change log can be found on the [Releases page](https://github.com/konvajs/vue-konva/releases).
-

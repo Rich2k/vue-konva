@@ -13,6 +13,7 @@ const KONVA_NODES = [
   'Label',
   'Rect',
   'Circle',
+  'Arrow',
   'Ellipse',
   'Wedge',
   'Line',

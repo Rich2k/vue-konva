@@ -48,6 +48,13 @@
     "subtags": [],
     "description": "Konva circle"
   },
+  "v-arrow": {
+    "attributes": [
+      "config"
+    ],
+    "subtags": [],
+    "description": "Konva circle"
+  },
   "v-ellipse": {
     "attributes": [
       "config"
